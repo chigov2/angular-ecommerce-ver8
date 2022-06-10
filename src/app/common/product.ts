@@ -9,3 +9,4 @@ export class Product {
     dateCreated: Date;
     lastUpdate: Date;
 }
+
